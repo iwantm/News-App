@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Articles</title>
+</head>
+<body>
+<h1> Articles: </h1>
+{% for idk in feed %}
+    <a href={{ idk.url }}><h2> {{idk.headline}} </h2></a>
+    <h2>{{ idk.category }}</h2>
+    <img style="max-height: 400px; max-width: 400px;" src={{ idk.image_url }}>
+{% endfor %}
+</body>
+</html>

@@ -1,0 +1,19 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <title>IDFK</title>
+    </head>
+    <body>
+    <h1>IDFK</h1>
+    <div>
+    <ul>
+    {% for idk in feed %}
+    <li>
+    <h2>Title {{ idk.title }}</h2>
+    <p> URL {{ idk.url}}</p>
+    </li>
+    {% endfor %}
+    </ul>
+    </div>
+    </body>
+    </html>

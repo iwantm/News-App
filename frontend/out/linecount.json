@@ -1,0 +1,576 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "/Users/iwanmoreton/PycharmProjects/untitled3/frontend",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2020-04-29 14:01:14",
+            "filesum": 60,
+            "codesum": 17435,
+            "commentsum": 231,
+            "blanksum": 199,
+            "filelist": [
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": ".idea/.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": ".idea/frontend.iml"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".idea/misc.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": ".idea/modules.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 96,
+                    "comment": 0,
+                    "filename": ".idea/workspace.xml"
+                },
+                {
+                    "blank": 1,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "build/asset-manifest.json"
+                },
+                {
+                    "filename": "build/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build/index.html"
+                },
+                {
+                    "filename": "build/logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build/logo512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "build/manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "build/precache-manifest.92f39bda1c70fe87ec85b90fc055ccda.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "build/robots.txt"
+                },
+                {
+                    "blank": 8,
+                    "code": 14,
+                    "comment": 17,
+                    "filename": "build/service-worker.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 7,
+                    "filename": "build/static/css/2.de424728.chunk.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build/static/css/2.de424728.chunk.css.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "build/static/css/main.7ae95972.chunk.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build/static/css/main.7ae95972.chunk.css.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "build/static/js/2.828a3023.chunk.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 0,
+                    "comment": 42,
+                    "filename": "build/static/js/2.828a3023.chunk.js.LICENSE.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build/static/js/2.828a3023.chunk.js.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "build/static/js/main.73acde3c.chunk.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build/static/js/main.73acde3c.chunk.js.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "build/static/js/runtime-main.84578d5e.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build/static/js/runtime-main.84578d5e.js.map"
+                },
+                {
+                    "blank": 0,
+                    "code": 15808,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "filename": "public/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 21,
+                    "comment": 23,
+                    "filename": "public/index.html"
+                },
+                {
+                    "filename": "public/logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/logo512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "public/manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "public/robots.txt"
+                },
+                {
+                    "blank": 31,
+                    "code": 37,
+                    "comment": 12,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src/.idea/.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src/.idea/misc.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src/.idea/modules.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src/.idea/src.iml"
+                },
+                {
+                    "blank": 0,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src/.idea/workspace.xml"
+                },
+                {
+                    "blank": 12,
+                    "code": 63,
+                    "comment": 2,
+                    "filename": "src/App.css"
+                },
+                {
+                    "blank": 9,
+                    "code": 16,
+                    "comment": 18,
+                    "filename": "src/App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src/App.test.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 84,
+                    "comment": 9,
+                    "filename": "src/Article/ArticleList.js"
+                },
+                {
+                    "blank": 13,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "src/Feed/AddFeed.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 47,
+                    "comment": 2,
+                    "filename": "src/Feed/FeedList.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src/Feed/Feeds.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 4,
+                    "filename": "src/FetchClient.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src/index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 3,
+                    "filename": "src/index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src/logo.svg"
+                },
+                {
+                    "blank": 15,
+                    "code": 61,
+                    "comment": 13,
+                    "filename": "src/MenuBar.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 95,
+                    "comment": 31,
+                    "filename": "src/serviceWorker.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "src/setupTests.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src/User/idk.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 103,
+                    "comment": 11,
+                    "filename": "src/User/LogIn.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 96,
+                    "comment": 4,
+                    "filename": "src/User/Popover.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 212,
+                    "comment": 5,
+                    "filename": "src/User/Profile.js"
+                },
+                {
+                    "blank": 12,
+                    "code": 209,
+                    "comment": 14,
+                    "filename": "src/User/Register.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 21,
+                    "comment": 1,
+                    "filename": "src/User/Users.js"
+                }
+            ]
+        },
+        {
+            "version": "0.1.7",
+            "counttime": "2020-04-29 14:06:16",
+            "filesum": 30,
+            "codesum": 17137,
+            "commentsum": 158,
+            "blanksum": 185,
+            "filelist": [
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 15808,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "filename": "public/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 21,
+                    "comment": 23,
+                    "filename": "public/index.html"
+                },
+                {
+                    "filename": "public/logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/logo512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "public/manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "public/robots.txt"
+                },
+                {
+                    "blank": 31,
+                    "code": 37,
+                    "comment": 12,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 12,
+                    "code": 63,
+                    "comment": 2,
+                    "filename": "src/App.css"
+                },
+                {
+                    "blank": 9,
+                    "code": 16,
+                    "comment": 18,
+                    "filename": "src/App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src/App.test.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 84,
+                    "comment": 9,
+                    "filename": "src/Article/ArticleList.js"
+                },
+                {
+                    "blank": 13,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "src/Feed/AddFeed.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 47,
+                    "comment": 2,
+                    "filename": "src/Feed/FeedList.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src/Feed/Feeds.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 4,
+                    "filename": "src/FetchClient.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src/index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 3,
+                    "filename": "src/index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src/logo.svg"
+                },
+                {
+                    "blank": 15,
+                    "code": 61,
+                    "comment": 13,
+                    "filename": "src/MenuBar.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 95,
+                    "comment": 31,
+                    "filename": "src/serviceWorker.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "src/setupTests.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src/User/idk.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 103,
+                    "comment": 11,
+                    "filename": "src/User/LogIn.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 96,
+                    "comment": 4,
+                    "filename": "src/User/Popover.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 212,
+                    "comment": 5,
+                    "filename": "src/User/Profile.js"
+                },
+                {
+                    "blank": 12,
+                    "code": 209,
+                    "comment": 14,
+                    "filename": "src/User/Register.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 21,
+                    "comment": 1,
+                    "filename": "src/User/Users.js"
+                }
+            ]
+        }
+    ]
+}
