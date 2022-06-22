@@ -22,7 +22,7 @@ ipython-genutils==0.2.0
 jedi==0.16.0
 joblib==0.14.1
 kombu==4.6.8
-numpy==1.18.1
+numpy==1.22.0
 parso==0.6.2
 pexpect==4.8.0
 pickleshare==0.7.5
